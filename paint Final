@@ -1,5 +1,6 @@
 from tkinter import *
 from tkinter.colorchooser import askcolor
+import pyautogui
 
 class PAINTT(object):
     dps = 5.0
